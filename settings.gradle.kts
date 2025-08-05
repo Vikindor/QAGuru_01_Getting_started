@@ -1,0 +1,1 @@
+rootProject.name = "QAGuru_01_Getting_started"
